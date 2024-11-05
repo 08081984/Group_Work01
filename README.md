@@ -25,7 +25,7 @@ This repository contains a PL/SQL procedure, calculate_attendance_stats, that an
 
 ---
 
-## 1.Overview
+ 1.Overview
 
 ### The calculate_attendance_stats procedure:
 
